@@ -4,7 +4,7 @@ A modern, full-stack personal finance dashboard built with **Laravel 12**, **Vue
 
 ## 📸 Dashboard Preview
 
-![BloomTrack Dashboard](public/dashboard-screenshot.svg)
+![BloomTrack Dashboard](public/dashboard.png)
 
 ## 📋 Table of Contents
 
@@ -99,7 +99,7 @@ For a quick automated setup, run:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/jam-afaq/bloomtrack-finance-tracker
 cd bloomtrack
 
 # Run automated setup
@@ -120,7 +120,7 @@ If you prefer manual setup or need more control:
 #### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jam-afaq/bloomtrack-finance-tracker
 cd bloomtrack
 ```
 
@@ -537,9 +537,9 @@ This project is open-sourced software licensed under the **MIT License**.
 
 ## 🆘 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/bloomtrack/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/bloomtrack/discussions)
-- **Email**: support@bloomtrack.com
+- **Issues**: [GitHub Issues](https://github.com/jam-afaq/bloomtrack-finance-tracker/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/jam-afaq/bloomtrack-finance-tracker/discussions)
+- **LinkedIn**: [Mohammad Afaq](https://www.linkedin.com/in/mohammad-afaq/)
 
 ## 🙏 Acknowledgments
 
@@ -570,8 +570,8 @@ This project is open-sourced software licensed under the **MIT License**.
 
 **🌱 BloomTrack** - Take control of your financial future with AI-powered insights!
 
-Made with ❤️ by the BloomTrack Team
+Made with ❤️ by [Muhammad Afaq](https://www.linkedin.com/in/mohammad-afaq/)
 
-[⭐ Star us on GitHub](https://github.com/yourusername/bloomtrack) | [📖 Documentation](https://docs.bloomtrack.com) | [🐛 Report Bug](https://github.com/yourusername/bloomtrack/issues)
+[⭐ Star us on GitHub](https://github.com/jam-afaq/bloomtrack-finance-tracker) | [🐛 Report Bug](https://github.com/jam-afaq/bloomtrack-finance-tracker/issues) | [💼 LinkedIn](https://www.linkedin.com/in/mohammad-afaq/)
 
 </div>
